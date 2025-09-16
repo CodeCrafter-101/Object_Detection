@@ -29,16 +29,8 @@ YOLO is one of the most popular models for this because it is:
 ---
 
 ## 📂 Project Structure  
-Object-Detection/
-│── notebooks/
-│ ├── Image_Detection.ipynb
-│ ├── Video_Detection.ipynb
-│ ├── Webcam_Detection.ipynb
-│ ├── YOLO_Training.ipynb
-│── UI/
-│ ├── Streamlit 
-│── data/ # Dataset (sample/custom)
-│── outputs/ # Saved results (images/videos)
+<img width="459" height="350" alt="image" src="https://github.com/user-attachments/assets/de19f2e0-a3f1-426e-ad59-6a2c51264247" />
+
 
 
 ---
